@@ -1,0 +1,12 @@
+16:42:39.719 [main] INFO  com.cars.qa.base.TestBase -- chrome driver is instantiated
+16:42:39.779 [main] INFO  com.cars.qa.base.TestBase -- In homePageTitleTest
+16:42:49.496 [main] INFO  com.cars.qa.base.TestBase -- chrome driver is instantiated
+16:42:49.500 [main] INFO  com.cars.qa.base.TestBase -- In searchTest ...
+16:43:02.299 [main] INFO  com.cars.qa.base.TestBase -- chrome driver is instantiated
+16:43:09.616 [main] INFO  com.cars.qa.base.TestBase -- In SearchResultsPageTitleTest Title of search results page is New Cars, Used Cars, Car Reviews and News | Cars.com
+16:43:20.280 [main] INFO  com.cars.qa.base.TestBase -- chrome driver is instantiated
+16:46:39.037 [main] INFO  com.cars.qa.base.TestBase -- chrome driver is instantiated
+16:46:39.081 [main] INFO  com.cars.qa.base.TestBase -- In homePageTitleTest
+16:46:56.473 [main] INFO  com.cars.qa.base.TestBase -- chrome driver is instantiated
+16:46:56.475 [main] INFO  com.cars.qa.base.TestBase -- In searchTest ...
+16:47:15.053 [main] INFO  com.cars.qa.base.TestBase -- chrome driver is instantiated

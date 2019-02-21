@@ -1,0 +1,4 @@
+16:47:20.714 [main] INFO  com.cars.qa.base.TestBase -- In SearchResultsPageTitleTest Title of search results page is New Cars, Used Cars, Car Reviews and News | Cars.com
+16:47:27.886 [main] INFO  com.cars.qa.base.TestBase -- chrome driver is instantiated
+16:47:35.428 [main] INFO  com.cars.qa.base.TestBase -- In ValidateSecondSearchResultTest Price of Car is $17,441
+16:47:49.704 [main] INFO  com.cars.qa.base.TestBase -- chrome driver is instantiated
